@@ -10,7 +10,7 @@ const GifExpertApp = () => {
     return (
         <>
             <h2>GifExpertApp</h2>
-            <p>👇👇Enter a topic here (minimum 3 letters and search for "pandas" if you're feeling stressed 😉 )👇👇</p>
+            <p>👇👇 Enter a topic here (minimum 3 letters and search for "pandas" if you're feeling stressed 😉 ) 👇👇</p>
             <AddCategory setCategories={ setCategories } />
             <hr />
 
